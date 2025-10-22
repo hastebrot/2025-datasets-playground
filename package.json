@@ -1,0 +1,10 @@
+{
+  "name": "2025-datasets-playground",
+  "private": true,
+  "workspaces": [
+    "f1-results-dnf/*"
+  ],
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
